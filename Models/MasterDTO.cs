@@ -1,7 +1,7 @@
-﻿namespace _7semester_ASP_ThirdTask
+﻿namespace _7semester_ASP_SecondTask.Models
 {
-	public class MasterDTO
-	{
-		public string? Name { get; set; }
-	}
+    public class MasterDTO
+    {
+        public string? Name { get; set; }
+    }
 }

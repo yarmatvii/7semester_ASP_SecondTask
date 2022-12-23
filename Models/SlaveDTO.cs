@@ -1,4 +1,4 @@
-﻿namespace _7semester_ASP_ThirdTask
+﻿namespace _7semester_ASP_SecondTask.Models
 {
 	public class SlaveDTO
 	{

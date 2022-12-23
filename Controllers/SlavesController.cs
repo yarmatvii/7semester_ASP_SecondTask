@@ -6,11 +6,11 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using _7semester_ASP_SecondTask.Data;
-using _7semester_ASP_ThirdTask;
+using _7semester_ASP_SecondTask.Models;
 
 namespace _7semester_ASP_SecondTask.Controllers
 {
-	[Route("api/[controller]")]
+    [Route("api/[controller]")]
 	[ApiController]
 	public class SlavesController : ControllerBase
 	{
